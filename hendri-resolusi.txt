@@ -1,4 +1,4 @@
 Hendri-resolusi
-- Menguasai pemrograman mobile dengan flutter
 - Menguasai salah salah framework PHP 
 - Membuat aplikasi untuk diletakan di playstore
+- Merancang dan membangun project aplikasi mobile dengan flutter
