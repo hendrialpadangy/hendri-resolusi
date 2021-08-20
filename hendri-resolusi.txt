@@ -1,4 +1,5 @@
 Hendri-resolusi
 - Memahirkan desain dengan Adobe XD dan Figma
 - Menguasai pemrograman mobile dengan flutter
-- Menguasai salah salah framework PHP
+- Menguasai salah salah framework PHP 
+- Membuat aplikasi untuk diletakan di playstore
